@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**nohaternohater/nohaternohater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nohaternohater.nohaternohater)
 
-Here are some ideas to get you started:
+## 🌍〃About Me
+nothing special
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐〃Socials
+
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](<https://discord.com/users/1082777766304432259>)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/nohaternohater)
+
+## 💻〃Languages-Tools
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,discordjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,python,javascript" /><br>
+</div>
+<br/>
+
+## 📊〃Stats
+
+![bloxet's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohaternohater&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nohaternohater&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nohaternohater&theme=gruvbox)
+
+
