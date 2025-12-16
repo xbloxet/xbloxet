@@ -18,7 +18,7 @@ Here you can find some of my Roblox projects, scripts, and experimental tools:
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square\&logo=Discord\&logoColor=white)](https://discord.com/users/1082777766304432259)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square\&logo=Discord\&logoColor=white)](https://discord.com/users/1200851369226149998)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=GitHub\&logoColor=white)](https://github.com/xbloxet)
 
 ## 💻 Languages & Tools
